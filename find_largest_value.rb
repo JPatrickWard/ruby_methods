@@ -2,8 +2,7 @@
 
 numbers = Array.new
 numbers = [0,-1,234,23,245,34,240,676,534,765,4,56,7,65,4,3,34,34,34,-1,45,4,234,276,456,675,-100]
-# numbers = []
-# array_length = numbers.length
+# numbers = [] # for testing an empty set.
 
 def find_max_num(numbers)
   if numbers.length == 0 
